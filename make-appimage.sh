@@ -12,6 +12,7 @@ export ICON=DUMMY
 export DESKTOP=DUMMY
 export MAIN_BIN=phoenix
 export DEPLOY_OPENGL=1
+export ANYLINUX_LIB=1
 
 # Deploy dependencies
 quick-sharun /usr/bin/phoenix
