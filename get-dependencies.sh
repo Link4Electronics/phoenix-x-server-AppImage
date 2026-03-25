@@ -13,7 +13,7 @@ echo "---------------------------------------------------------------"
 get-debloated-pkgs --add-common --prefer-nano
 
 # Comment this out if you need an AUR package
-make-aur-package zig0.14
+make-aur-package zig0.14-bin
 make-aur-package phoenix-x-server-git
 
 # If the application needs to be manually built that has to be done down here
